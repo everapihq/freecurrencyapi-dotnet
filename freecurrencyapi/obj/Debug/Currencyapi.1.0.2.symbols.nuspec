@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Currencyapi</id>
+    <version>1.0.2</version>
+    <title>currencyapi</title>
+    <authors>Benedikt Stoy</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <icon>currencyapi-icon.png</icon>
+    <readme>README.md</readme>
+    <projectUrl>https://currencyapi.com/</projectUrl>
+    <description>This client library enables working with currencyapi - https://currencyapi.com/
+      Register here for an Apikey to use the API - https://app.currencyapi.com/register
+      See Github repository here - https://github.com/everapihq/currencyapi-dotnet</description>
+    <copyright>Copyright © Everapi GmbH 2022</copyright>
+    <tags>Currency currencyapi Api Currency converter Exchange rates</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/benediktstoy/Development/ruby/currencyapi-dotnet/currencyapi/bin/Debug/netstandard2.1/currencyapi.pdb" target="lib/netstandard2.1/currencyapi.pdb" />
+  </files>
+</package>

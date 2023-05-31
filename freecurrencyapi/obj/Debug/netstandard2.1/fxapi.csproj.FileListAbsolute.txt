@@ -1,0 +1,12 @@
+/Users/andreasaltheimer/apps/packages/fxapi-dotnet/fxapi/bin/Debug/netstandard2.1/fxapi.deps.json
+/Users/andreasaltheimer/apps/packages/fxapi-dotnet/fxapi/bin/Debug/netstandard2.1/fxapi.dll
+/Users/andreasaltheimer/apps/packages/fxapi-dotnet/fxapi/bin/Debug/netstandard2.1/fxapi.pdb
+/Users/andreasaltheimer/apps/packages/fxapi-dotnet/fxapi/bin/Debug/netstandard2.1/fxapi.xml
+/Users/andreasaltheimer/apps/packages/fxapi-dotnet/fxapi/obj/Debug/netstandard2.1/fxapi.csproj.AssemblyReference.cache
+/Users/andreasaltheimer/apps/packages/fxapi-dotnet/fxapi/obj/Debug/netstandard2.1/fxapi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreasaltheimer/apps/packages/fxapi-dotnet/fxapi/obj/Debug/netstandard2.1/fxapi.AssemblyInfoInputs.cache
+/Users/andreasaltheimer/apps/packages/fxapi-dotnet/fxapi/obj/Debug/netstandard2.1/fxapi.AssemblyInfo.cs
+/Users/andreasaltheimer/apps/packages/fxapi-dotnet/fxapi/obj/Debug/netstandard2.1/fxapi.csproj.CoreCompileInputs.cache
+/Users/andreasaltheimer/apps/packages/fxapi-dotnet/fxapi/obj/Debug/netstandard2.1/fxapi.dll
+/Users/andreasaltheimer/apps/packages/fxapi-dotnet/fxapi/obj/Debug/netstandard2.1/fxapi.xml
+/Users/andreasaltheimer/apps/packages/fxapi-dotnet/fxapi/obj/Debug/netstandard2.1/fxapi.pdb

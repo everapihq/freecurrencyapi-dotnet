@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = currencyapi
+build_property.ProjectDir = /Users/andreasaltheimer/apps/packages/fxapi-dotnet/fxapi/

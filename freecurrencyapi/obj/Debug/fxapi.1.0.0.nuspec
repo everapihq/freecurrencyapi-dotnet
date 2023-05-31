@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>fxapi</id>
+    <version>1.0.0</version>
+    <title>fxapi</title>
+    <authors>Dominik Kukacka</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <icon>fxapi-icon.png</icon>
+    <readme>README.md</readme>
+    <projectUrl>https://fxapi.com/</projectUrl>
+    <description>This client library enables working with fxapi - https://fxapi.com/
+      Register here for an Apikey to use the API - https://app.fxapi.com/register
+      See Github repository here - https://github.com/everapihq/fxapi-dotnet</description>
+    <copyright>Copyright © Everapi GmbH 2022</copyright>
+    <tags>foreign exchange rates exchange rates api rates api fxapi exchange rates</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/andreasaltheimer/apps/packages/fxapi-dotnet/fxapi/bin/Debug/netstandard2.1/fxapi.dll" target="lib/netstandard2.1/fxapi.dll" />
+    <file src="/Users/andreasaltheimer/apps/packages/fxapi-dotnet/fxapi/bin/Debug/netstandard2.1/fxapi.xml" target="lib/netstandard2.1/fxapi.xml" />
+    <file src="/Users/andreasaltheimer/apps/packages/fxapi-dotnet/LICENSE.md" target="LICENSE.md" />
+    <file src="/Users/andreasaltheimer/apps/packages/fxapi-dotnet/fxapi-icon.png" target="fxapi-icon.png" />
+    <file src="/Users/andreasaltheimer/apps/packages/fxapi-dotnet/README.md" target="README.md" />
+  </files>
+</package>
